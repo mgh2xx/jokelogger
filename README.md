@@ -1,4 +1,4 @@
 # jokelogger
 Funny HaHa...
 
-This is a script to fetch a joke
+This is a script to fetch a joke.
